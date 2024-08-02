@@ -9,6 +9,7 @@ This repository contains the code for the first homework assignment in the Natur
 - [Persian Data Processing](#persian-data-processing)
 - [English Data Processing](#english-data-processing)
 - [Spelling Error Correction](#spelling-error-correction)
+- [Word Cloud Visualization](#word-cloud-visualization)
 - [Usage](#usage)
 - [Conclusion](#conclusion)
 
@@ -45,6 +46,10 @@ The English text undergoes similar processing:
 
 ## Spelling Error Correction
 The code includes a function for correcting spelling errors using the Damerau-Levenshtein distance algorithm. It suggests corrections for misspelled words based on a provided vocabulary.
+
+## Word Cloud Visualization
+Here is a sample word cloud generated from the processed text:
+![Word Cloud](images/word_cloud.png)
 
 ## Usage
 1. Place your Persian and English text files in the appropriate directory.
