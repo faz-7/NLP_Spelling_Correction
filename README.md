@@ -49,6 +49,7 @@ The code includes a function for correcting spelling errors using the Damerau-Le
 
 ## Word Cloud Visualization
 Here is a sample word cloud generated from the processed text:
+
 ![Word Cloud](images/word_cloud.png)
 
 ## Usage
